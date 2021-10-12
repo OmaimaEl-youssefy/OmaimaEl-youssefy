@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/el-youssefy-omaima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <hr/>
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/OmaimaEl-youssefy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmaimaEl-youssefy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaEl-youssefy&layout=compact&langs_count=7&theme=dracula"/>
