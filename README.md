@@ -1,7 +1,12 @@
 ### Hello world 👋
 
 - 📫 How to reach me: omaimaelyo@gmail.com
+  <a href="https://leetcode.com/ominav/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-%23E4405F?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.hackerrank.com/omaimaelyo" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-9146FF?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/OmaimaElyou" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/el-youssefy-omaima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<hr/>
 <div align="center">
   <a href="https://github.com/OmaimaEl-youssefy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmaimaEl-youssefy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,12 +20,6 @@
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 <div> 
-
-  <a href="https://leetcode.com/ominav/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-%23E4405F?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
- 	<a href="https://www.hackerrank.com/omaimaelyo" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-9146FF?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/OmaimaElyou" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/el-youssefy-omaima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
